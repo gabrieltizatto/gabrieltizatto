@@ -10,7 +10,7 @@ I started my career hands-on with AWS, Terraform, containers, CI/CD, and reliabi
 
 - 🏗️ Building **Jogaí**, a SaaS platform for sports venue scheduling and management (https://jogai.app)
 
-- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/tizattogabriel/)
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/gabrieltizatto/)
 
 ### Languages and Tools
 
